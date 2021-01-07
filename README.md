@@ -1,0 +1,2 @@
+# graphql
+Gridsome compatible
